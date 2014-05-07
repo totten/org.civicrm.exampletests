@@ -9,8 +9,7 @@
     <email>to-git@think.hm</email>
   </maintainer>
   <releaseDate>2012-10-10</releaseDate>
-  <version>1.0</version>
-  <develStage>alpha</develStage>
+  <version>1.0-alpha1</version>
   <compatibility>
     <ver>4.2</ver>
   </compatibility>
