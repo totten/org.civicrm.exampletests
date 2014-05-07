@@ -17,4 +17,7 @@
   <civix>
     <namespace>CRM/Exampletests</namespace>
   </civix>
+  <urls>
+    <url desc="Documentation">https://github.com/totten/org.civicrm.exampletests</url>
+  </urls>
 </extension>
